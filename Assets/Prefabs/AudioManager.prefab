@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4955324889133662967
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1533667506423482186}
+  - component: {fileID: 5261711303648561184}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1533667506423482186
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4955324889133662967}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 126.92856, y: 8.040735, z: -9.566821}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5261711303648561184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4955324889133662967}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c05caddd35ef3a4e8fb7c6a053ca11f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: catAttack
+    clip: {fileID: 8300000, guid: 663f4dbff97a8544c91d30d9bf1e9f02, type: 3}
+    audioMixer: {fileID: 24300002, guid: 7a6766b18dabf884db7fbfa684536299, type: 2}
+    loop: 0
+  - name: eatSound
+    clip: {fileID: 8300000, guid: 2d29aa4ca00200845bd55a7898fa0abd, type: 3}
+    audioMixer: {fileID: 0}
+    loop: 0
+  - name: winSound
+    clip: {fileID: 8300000, guid: 68d7b48e3787a034fb101dc861596620, type: 3}
+    audioMixer: {fileID: 24300002, guid: 7a6766b18dabf884db7fbfa684536299, type: 2}
+    loop: 0
+  - name: dogHit
+    clip: {fileID: 8300000, guid: 6fbbb438890c4e84999d181e9378ac8e, type: 3}
+    audioMixer: {fileID: 24300002, guid: 7a6766b18dabf884db7fbfa684536299, type: 2}
+    loop: 0
+  - name: music
+    clip: {fileID: 8300000, guid: 9ae7b7a267716be43aa20a81faf0bfc2, type: 3}
+    audioMixer: {fileID: 24300002, guid: 7a6766b18dabf884db7fbfa684536299, type: 2}
+    loop: 1

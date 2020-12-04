@@ -1,0 +1,3064 @@
+fileFormatVersion: 2
+guid: 30d470711ec059a4f806e7babd1e08d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9036282658555970338
+    second: Dog_White-Brown_0
+  - first:
+      213: -5964169569723840919
+    second: Dog_White-Brown_1
+  - first:
+      213: -3755349544197869572
+    second: Dog_White-Brown_2
+  - first:
+      213: 7998295026705107969
+    second: Dog_White-Brown_3
+  - first:
+      213: -3926890249330264158
+    second: Dog_White-Brown_4
+  - first:
+      213: 5637895495378620326
+    second: Dog_White-Brown_5
+  - first:
+      213: 387199050068291364
+    second: Dog_White-Brown_6
+  - first:
+      213: 7356449050947733326
+    second: Dog_White-Brown_7
+  - first:
+      213: 8305403511397346413
+    second: Dog_White-Brown_8
+  - first:
+      213: -7532894774803479432
+    second: Dog_White-Brown_9
+  - first:
+      213: -2464100425420076819
+    second: Dog_White-Brown_10
+  - first:
+      213: 7142014765050010048
+    second: Dog_White-Brown_11
+  - first:
+      213: 7736147545557327219
+    second: Dog_White-Brown_12
+  - first:
+      213: 6197033987591565835
+    second: Dog_White-Brown_13
+  - first:
+      213: -8934428676777518165
+    second: Dog_White-Brown_14
+  - first:
+      213: 1727163296916344708
+    second: Dog_White-Brown_15
+  - first:
+      213: -7661569758130869961
+    second: Dog_White-Brown_16
+  - first:
+      213: -1712930247058771100
+    second: Dog_White-Brown_17
+  - first:
+      213: -6149115697522109134
+    second: Dog_White-Brown_18
+  - first:
+      213: -7823230626888369727
+    second: Dog_White-Brown_19
+  - first:
+      213: -7303118928796097818
+    second: Dog_White-Brown_20
+  - first:
+      213: 6346446219468789603
+    second: Dog_White-Brown_21
+  - first:
+      213: 723666192078110120
+    second: Dog_White-Brown_22
+  - first:
+      213: 4873463208206902964
+    second: Dog_White-Brown_23
+  - first:
+      213: 6956660496427530559
+    second: Dog_White-Brown_24
+  - first:
+      213: 2186182734578976798
+    second: Dog_White-Brown_25
+  - first:
+      213: -701305760560731149
+    second: Dog_White-Brown_26
+  - first:
+      213: 26050881024742733
+    second: Dog_White-Brown_27
+  - first:
+      213: -7224938192183225720
+    second: Dog_White-Brown_28
+  - first:
+      213: -7344891128375071233
+    second: Dog_White-Brown_29
+  - first:
+      213: -1836200904781847755
+    second: Dog_White-Brown_30
+  - first:
+      213: 67908458953288349
+    second: Dog_White-Brown_31
+  - first:
+      213: -5546508282170497649
+    second: Dog_White-Brown_32
+  - first:
+      213: 5365144083524907455
+    second: Dog_White-Brown_33
+  - first:
+      213: 786847003668754014
+    second: Dog_White-Brown_34
+  - first:
+      213: 232013750817324507
+    second: Dog_White-Brown_35
+  - first:
+      213: -6960477001302027983
+    second: Dog_White-Brown_36
+  - first:
+      213: -3415877786826712688
+    second: Dog_White-Brown_37
+  - first:
+      213: 1127964659939190747
+    second: Dog_White-Brown_38
+  - first:
+      213: -6579203537841420344
+    second: Dog_White-Brown_39
+  - first:
+      213: -8428050354013148446
+    second: Dog_White-Brown_40
+  - first:
+      213: 4246146441297120204
+    second: Dog_White-Brown_41
+  - first:
+      213: 7516836593083475622
+    second: Dog_White-Brown_42
+  - first:
+      213: 7391979663720322916
+    second: Dog_White-Brown_43
+  - first:
+      213: 1381183104346079867
+    second: Dog_White-Brown_44
+  - first:
+      213: 3704913794840205376
+    second: Dog_White-Brown_45
+  - first:
+      213: 6609171941079145526
+    second: Dog_White-Brown_46
+  - first:
+      213: 7329065075720990550
+    second: Dog_White-Brown_47
+  - first:
+      213: -3424765917539101536
+    second: Dog_White-Brown_48
+  - first:
+      213: 2698901177024535402
+    second: Dog_White-Brown_49
+  - first:
+      213: 6627761005361824478
+    second: Dog_White-Brown_50
+  - first:
+      213: -6280734915049720443
+    second: Dog_White-Brown_51
+  - first:
+      213: -5177074157976113663
+    second: Dog_White-Brown_52
+  - first:
+      213: -3483307640326289472
+    second: Dog_White-Brown_53
+  - first:
+      213: -1029388707024865055
+    second: Dog_White-Brown_54
+  - first:
+      213: -1338068155459713349
+    second: Dog_White-Brown_55
+  - first:
+      213: -678410337210907313
+    second: Dog_White-Brown_56
+  - first:
+      213: 5906794823136875673
+    second: Dog_White-Brown_57
+  - first:
+      213: -7552407375076545435
+    second: Dog_White-Brown_58
+  - first:
+      213: -2792588766809006351
+    second: Dog_White-Brown_59
+  - first:
+      213: 3938281606035413047
+    second: Dog_White-Brown_60
+  - first:
+      213: 327717241710514059
+    second: Dog_White-Brown_61
+  - first:
+      213: -4113937759703075917
+    second: Dog_White-Brown_62
+  - first:
+      213: -5546832285688781712
+    second: Dog_White-Brown_63
+  - first:
+      213: -1185206682262270346
+    second: Dog_White-Brown_64
+  - first:
+      213: -8723538366489313654
+    second: Dog_White-Brown_65
+  - first:
+      213: 7943873960504206063
+    second: Dog_White-Brown_66
+  - first:
+      213: -4778597475772678694
+    second: Dog_White-Brown_67
+  - first:
+      213: 4271532535240953010
+    second: Dog_White-Brown_68
+  - first:
+      213: 6029715817905457400
+    second: Dog_White-Brown_69
+  - first:
+      213: -6301563458503025528
+    second: Dog_White-Brown_70
+  - first:
+      213: 8705149819390285165
+    second: Dog_White-Brown_71
+  - first:
+      213: -5091994165235247709
+    second: Dog_White-Brown_72
+  - first:
+      213: 9172211914095124099
+    second: Dog_White-Brown_73
+  - first:
+      213: -3622848576917787201
+    second: Dog_White-Brown_74
+  - first:
+      213: -1672418567591683541
+    second: Dog_White-Brown_75
+  - first:
+      213: -3092867138746024209
+    second: Dog_White-Brown_76
+  - first:
+      213: 5125749157470940073
+    second: Dog_White-Brown_77
+  - first:
+      213: 4598686803071149385
+    second: Dog_White-Brown_78
+  - first:
+      213: -4116123442275699980
+    second: Dog_White-Brown_79
+  - first:
+      213: -3059801550452457763
+    second: Dog_White-Brown_80
+  - first:
+      213: -6793476866967282280
+    second: Dog_White-Brown_81
+  - first:
+      213: -8967600670760522493
+    second: Dog_White-Brown_82
+  - first:
+      213: 1747264400489060058
+    second: Dog_White-Brown_83
+  - first:
+      213: 4888550260303100037
+    second: Dog_White-Brown_84
+  - first:
+      213: -534280116342977146
+    second: Dog_White-Brown_85
+  - first:
+      213: -8615947423408796766
+    second: Dog_White-Brown_86
+  - first:
+      213: 168916945218840569
+    second: Dog_White-Brown_87
+  - first:
+      213: 3206067814412492736
+    second: Dog_White-Brown_88
+  - first:
+      213: 1736125661027288387
+    second: Dog_White-Brown_89
+  - first:
+      213: -3728796301792667673
+    second: Dog_White-Brown_90
+  - first:
+      213: -7818811795958529362
+    second: Dog_White-Brown_91
+  - first:
+      213: 5510462716703947543
+    second: Dog_White-Brown_92
+  - first:
+      213: 8516693184849399005
+    second: Dog_White-Brown_93
+  - first:
+      213: 1132850308462836729
+    second: Dog_White-Brown_94
+  - first:
+      213: -6660056878427468265
+    second: Dog_White-Brown_95
+  - first:
+      213: -3294632333445656815
+    second: Dog_White-Brown_96
+  - first:
+      213: 6119138387614204882
+    second: Dog_White-Brown_97
+  - first:
+      213: 8164928583837640551
+    second: Dog_White-Brown_98
+  - first:
+      213: -2462767015194043490
+    second: Dog_White-Brown_99
+  - first:
+      213: 5465142120210770310
+    second: Dog_White-Brown_100
+  - first:
+      213: 987114882988027899
+    second: Dog_White-Brown_101
+  - first:
+      213: 4232710210576802269
+    second: Dog_White-Brown_102
+  - first:
+      213: -1953730959177078685
+    second: Dog_White-Brown_103
+  - first:
+      213: -1945960519415044565
+    second: Dog_White-Brown_104
+  - first:
+      213: -7403307984384227137
+    second: Dog_White-Brown_105
+  - first:
+      213: 6469655613732261652
+    second: Dog_White-Brown_106
+  - first:
+      213: 789343021425190320
+    second: Dog_White-Brown_107
+  - first:
+      213: -2754628205170151075
+    second: Dog_White-Brown_108
+  - first:
+      213: -6341463661008986996
+    second: Dog_White-Brown_109
+  - first:
+      213: 6543527964501186645
+    second: Dog_White-Brown_110
+  - first:
+      213: -7720569118185733842
+    second: Dog_White-Brown_111
+  - first:
+      213: -4516217387098018981
+    second: Dog_White-Brown_112
+  - first:
+      213: -293021133072025048
+    second: Dog_White-Brown_113
+  - first:
+      213: 5175646376771118946
+    second: Dog_White-Brown_114
+  - first:
+      213: 8143621658209826795
+    second: Dog_White-Brown_115
+  - first:
+      213: 7733502671912726171
+    second: Dog_White-Brown_116
+  - first:
+      213: -399934181234290505
+    second: Dog_White-Brown_117
+  - first:
+      213: 678561800002542999
+    second: Dog_White-Brown_118
+  - first:
+      213: 4021544827649609980
+    second: Dog_White-Brown_119
+  - first:
+      213: 7235469981840025791
+    second: Dog_White-Brown_120
+  - first:
+      213: 1252631130317694843
+    second: Dog_White-Brown_121
+  - first:
+      213: -889840549918300604
+    second: Dog_White-Brown_122
+  - first:
+      213: -3771233515293240735
+    second: Dog_White-Brown_123
+  - first:
+      213: -4496214322301971028
+    second: Dog_White-Brown_124
+  - first:
+      213: -2603570858122242077
+    second: Dog_White-Brown_125
+  - first:
+      213: -2690367801463893958
+    second: Dog_White-Brown_126
+  - first:
+      213: 5624508422588286472
+    second: Dog_White-Brown_127
+  - first:
+      213: 3757996665282281674
+    second: Dog_White-Brown_128
+  - first:
+      213: 2210213355595500369
+    second: Dog_White-Brown_129
+  - first:
+      213: 7835693351482681137
+    second: Dog_White-Brown_130
+  - first:
+      213: 6953799256452672147
+    second: Dog_White-Brown_131
+  - first:
+      213: -1923911755794431427
+    second: Dog_White-Brown_132
+  - first:
+      213: -7660205645552718460
+    second: Dog_White-Brown_133
+  - first:
+      213: -935031633941921499
+    second: Dog_White-Brown_134
+  - first:
+      213: -945849100780193722
+    second: Dog_White-Brown_135
+  - first:
+      213: -5811194705550591206
+    second: Dog_White-Brown_136
+  - first:
+      213: -1112835702472730206
+    second: Dog_White-Brown_137
+  - first:
+      213: -1483758522135270196
+    second: Dog_White-Brown_138
+  - first:
+      213: -2239180757983222633
+    second: Dog_White-Brown_139
+  - first:
+      213: -2932802696184871510
+    second: Dog_White-Brown_140
+  - first:
+      213: 3316108314979139259
+    second: Dog_White-Brown_141
+  - first:
+      213: 2411280514761837367
+    second: Dog_White-Brown_142
+  - first:
+      213: -5382177830958419471
+    second: Dog_White-Brown_143
+  - first:
+      213: 6664511713597905495
+    second: Dog_White-Brown_144
+  - first:
+      213: -8079572517326846692
+    second: Dog_White-Brown_145
+  - first:
+      213: -544491734916737366
+    second: Dog_White-Brown_146
+  - first:
+      213: -2236071166172051340
+    second: Dog_White-Brown_147
+  - first:
+      213: -8498666121817864520
+    second: Dog_White-Brown_148
+  - first:
+      213: -1498939923713740232
+    second: Dog_White-Brown_149
+  - first:
+      213: 3996488982935777613
+    second: Dog_White-Brown_150
+  - first:
+      213: -5051324319515515125
+    second: Dog_White-Brown_151
+  - first:
+      213: -8107501906634792580
+    second: Dog_White-Brown_152
+  - first:
+      213: 7210293975460843266
+    second: Dog_White-Brown_153
+  - first:
+      213: -8328116579814070536
+    second: Dog_White-Brown_154
+  - first:
+      213: -7028346865448647629
+    second: Dog_White-Brown_155
+  - first:
+      213: -3625065918782021809
+    second: Dog_White-Brown_156
+  - first:
+      213: 6819066161650318465
+    second: Dog_White-Brown_157
+  - first:
+      213: 6303414635789477288
+    second: Dog_White-Brown_158
+  - first:
+      213: -6544365703842252471
+    second: Dog_White-Brown_159
+  - first:
+      213: -8480027610107725966
+    second: Dog_White-Brown_160
+  - first:
+      213: 7053614632711903314
+    second: Dog_White-Brown_161
+  - first:
+      213: 747372767480357851
+    second: Dog_White-Brown_162
+  - first:
+      213: -7066253214331931431
+    second: Dog_White-Brown_163
+  - first:
+      213: 9079817818568644501
+    second: Dog_White-Brown_164
+  - first:
+      213: -7232778181335208744
+    second: Dog_White-Brown_165
+  - first:
+      213: -2940161534355974327
+    second: Dog_White-Brown_166
+  - first:
+      213: -8721712639402656457
+    second: Dog_White-Brown_167
+  - first:
+      213: 1193213560300304319
+    second: Dog_White-Brown_168
+  - first:
+      213: -5722343495006993518
+    second: Dog_White-Brown_169
+  - first:
+      213: -5086773359491227858
+    second: Dog_White-Brown_170
+  - first:
+      213: 812723086250713563
+    second: Dog_White-Brown_171
+  - first:
+      213: -8916158781563703628
+    second: Dog_White-Brown_172
+  - first:
+      213: -2092207853662809988
+    second: Dog_White-Brown_173
+  - first:
+      213: -1015019639181405763
+    second: Dog_White-Brown_174
+  - first:
+      213: -7905287143513364994
+    second: Dog_White-Brown_175
+  - first:
+      213: 3080122899047379835
+    second: Dog_White-Brown_176
+  - first:
+      213: -8502738258075802052
+    second: Dog_White-Brown_177
+  - first:
+      213: -6850942897254089349
+    second: Dog_White-Brown_178
+  - first:
+      213: -6092804718552274046
+    second: Dog_White-Brown_179
+  - first:
+      213: 726741087444635366
+    second: Dog_White-Brown_180
+  - first:
+      213: -3391158455862292551
+    second: Dog_White-Brown_181
+  - first:
+      213: -3102127866480146385
+    second: Dog_White-Brown_182
+  - first:
+      213: -1018368319853656025
+    second: Dog_White-Brown_183
+  - first:
+      213: 8563708776304159286
+    second: Dog_White-Brown_184
+  - first:
+      213: 7108915969107247952
+    second: Dog_White-Brown_185
+  - first:
+      213: -8380853337891998875
+    second: Dog_White-Brown_186
+  - first:
+      213: -3448972510980461900
+    second: Dog_White-Brown_187
+  - first:
+      213: 8069966593507099394
+    second: Dog_White-Brown_188
+  - first:
+      213: 1173809311786020606
+    second: Dog_White-Brown_189
+  - first:
+      213: -8995481499482577882
+    second: Dog_White-Brown_190
+  - first:
+      213: 8054332298187504979
+    second: Dog_White-Brown_191
+  - first:
+      213: -7385520502986812587
+    second: Dog_White-Brown_192
+  - first:
+      213: 6551104248074521273
+    second: Dog_White-Brown_193
+  - first:
+      213: 7115351501286745233
+    second: Dog_White-Brown_194
+  - first:
+      213: -6981772002393530169
+    second: Dog_White-Brown_195
+  - first:
+      213: 6847766371577746932
+    second: Dog_White-Brown_196
+  - first:
+      213: -2074694810896946886
+    second: Dog_White-Brown_197
+  - first:
+      213: 4794872174161122779
+    second: Dog_White-Brown_198
+  - first:
+      213: -8784986946429643627
+    second: Dog_White-Brown_199
+  - first:
+      213: 5831575551911686288
+    second: Dog_White-Brown_200
+  - first:
+      213: -4626679874465075743
+    second: Dog_White-Brown_201
+  - first:
+      213: 1889679379027088760
+    second: Dog_White-Brown_202
+  - first:
+      213: 7298716991587400890
+    second: Dog_White-Brown_203
+  - first:
+      213: 4621953694326776581
+    second: Dog_White-Brown_204
+  - first:
+      213: -7184392293949612487
+    second: Dog_White-Brown_205
+  - first:
+      213: -1803238759676250906
+    second: Dog_White-Brown_206
+  - first:
+      213: 2694614134655449900
+    second: Dog_White-Brown_207
+  - first:
+      213: -4697825923000985315
+    second: Dog_White-Brown_208
+  - first:
+      213: -3707349303498067376
+    second: Dog_White-Brown_209
+  - first:
+      213: 7080562723558156206
+    second: Dog_White-Brown_210
+  - first:
+      213: 3988895408142961987
+    second: Dog_White-Brown_211
+  - first:
+      213: -7186985995073513841
+    second: Dog_White-Brown_212
+  - first:
+      213: 8536178074358769528
+    second: Dog_White-Brown_213
+  - first:
+      213: 7055863439326301557
+    second: Dog_White-Brown_214
+  - first:
+      213: -734847737183806474
+    second: Dog_White-Brown_215
+  - first:
+      213: -8923200507872837403
+    second: Dog_White-Brown_216
+  - first:
+      213: -8128312313419842621
+    second: Dog_White-Brown_217
+  - first:
+      213: 1748168333589529504
+    second: Dog_White-Brown_218
+  - first:
+      213: 8933462164951656520
+    second: Dog_White-Brown_219
+  - first:
+      213: 9141913062657819121
+    second: Dog_White-Brown_220
+  - first:
+      213: -6999040161629166504
+    second: Dog_White-Brown_221
+  - first:
+      213: -2856775848462249213
+    second: Dog_White-Brown_222
+  - first:
+      213: -5830248976509423292
+    second: Dog_White-Brown_223
+  - first:
+      213: 2383222820884402475
+    second: Dog_White-Brown_224
+  - first:
+      213: -8469030156348525359
+    second: Dog_White-Brown_225
+  - first:
+      213: -3223744796705195787
+    second: Dog_White-Brown_226
+  - first:
+      213: 5428932073010814516
+    second: Dog_White-Brown_227
+  - first:
+      213: -5429999900547139444
+    second: Dog_White-Brown_228
+  - first:
+      213: -8104618325895920278
+    second: Dog_White-Brown_229
+  - first:
+      213: -2896753770757211410
+    second: Dog_White-Brown_230
+  - first:
+      213: -5629285576442478308
+    second: Dog_White-Brown_231
+  - first:
+      213: 2765532142144206595
+    second: Dog_White-Brown_232
+  - first:
+      213: 4104146961634427016
+    second: Dog_White-Brown_233
+  - first:
+      213: 6768685859488595422
+    second: Dog_White-Brown_234
+  - first:
+      213: -9510657691810773
+    second: Dog_White-Brown_235
+  - first:
+      213: 572741174746506856
+    second: Dog_White-Brown_236
+  - first:
+      213: 8084826491010128730
+    second: Dog_White-Brown_237
+  - first:
+      213: 2843339655514619440
+    second: Dog_White-Brown_238
+  - first:
+      213: 78807572435420706
+    second: Dog_White-Brown_239
+  - first:
+      213: 4060629034757684492
+    second: Dog_White-Brown_240
+  - first:
+      213: -4540990393073832706
+    second: Dog_White-Brown_241
+  - first:
+      213: -8938730011726904584
+    second: Dog_White-Brown_242
+  - first:
+      213: -1679449231555049977
+    second: Dog_White-Brown_243
+  - first:
+      213: -1009427455815181490
+    second: Dog_White-Brown_244
+  - first:
+      213: 7453016020861282272
+    second: Dog_White-Brown_245
+  - first:
+      213: 2892053852816252758
+    second: Dog_White-Brown_246
+  - first:
+      213: -3290964363722193706
+    second: Dog_White-Brown_247
+  - first:
+      213: -1281997311411176988
+    second: Dog_White-Brown_248
+  - first:
+      213: -8051784765509829424
+    second: Dog_White-Brown_249
+  - first:
+      213: -822112853476188369
+    second: Dog_White-Brown_250
+  - first:
+      213: 3249289198298452449
+    second: Dog_White-Brown_251
+  - first:
+      213: 596518196570442568
+    second: Dog_White-Brown_252
+  - first:
+      213: -8733875532779545342
+    second: Dog_White-Brown_253
+  - first:
+      213: -4644426723646769476
+    second: Dog_White-Brown_254
+  - first:
+      213: 6384565603727729574
+    second: Dog_White-Brown_255
+  - first:
+      213: -8557489250892603203
+    second: Dog_White-Brown_256
+  - first:
+      213: 6275121396172242823
+    second: Dog_White-Brown_257
+  - first:
+      213: 4411822063901251522
+    second: Dog_White-Brown_258
+  - first:
+      213: -4490968928029324522
+    second: Dog_White-Brown_259
+  - first:
+      213: 440054547579398030
+    second: Dog_White-Brown_260
+  - first:
+      213: 472424610705735538
+    second: Dog_White-Brown_261
+  - first:
+      213: -4808001004625223856
+    second: Dog_White-Brown_262
+  - first:
+      213: -3603484565278437127
+    second: Dog_White-Brown_263
+  - first:
+      213: 5080302429860804813
+    second: Dog_White-Brown_264
+  - first:
+      213: 6764161740720191852
+    second: Dog_White-Brown_265
+  - first:
+      213: -984992910972209191
+    second: Dog_White-Brown_266
+  - first:
+      213: -3903197170275347913
+    second: Dog_White-Brown_267
+  - first:
+      213: 4367417800671195812
+    second: Dog_White-Brown_268
+  - first:
+      213: -5190075764208522574
+    second: Dog_White-Brown_269
+  - first:
+      213: -8682783491205179308
+    second: Dog_White-Brown_270
+  - first:
+      213: 1886418334477133723
+    second: Dog_White-Brown_271
+  - first:
+      213: 5130257668206491649
+    second: Dog_White-Brown_272
+  - first:
+      213: -7249525887305376996
+    second: Dog_White-Brown_273
+  - first:
+      213: -8994043459809148238
+    second: Dog_White-Brown_274
+  - first:
+      213: 5807798434100128933
+    second: Dog_White-Brown_275
+  - first:
+      213: -8640737502871143762
+    second: Dog_White-Brown_276
+  - first:
+      213: 8655389979569549662
+    second: Dog_White-Brown_277
+  - first:
+      213: 5787244277479612477
+    second: Dog_White-Brown_278
+  - first:
+      213: -7015352526935376696
+    second: Dog_White-Brown_279
+  - first:
+      213: 1782494566934505108
+    second: Dog_White-Brown_280
+  - first:
+      213: -8447551399194702743
+    second: Dog_White-Brown_281
+  - first:
+      213: 8928075361276676309
+    second: Dog_White-Brown_282
+  - first:
+      213: -3562163032794762264
+    second: Dog_White-Brown_283
+  - first:
+      213: 5289903846011939079
+    second: Dog_White-Brown_284
+  - first:
+      213: -3120217085164894059
+    second: Dog_White-Brown_285
+  - first:
+      213: 2323785568413387963
+    second: Dog_White-Brown_286
+  - first:
+      213: 3635982571686869522
+    second: Dog_White-Brown_287
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dog_White-Brown_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcbfbe5ccca89280800000000000000
+      internalID: -9036282658555970338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 528
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9668a6830630b3da0800000000000000
+      internalID: -5964169569723840919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 528
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff29aa7c7152ebc0800000000000000
+      internalID: -3755349544197869572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c088333f6affe60800000000000000
+      internalID: 7998295026705107969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 528
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a779b0bf12e089c0800000000000000
+      internalID: -3926890249330264158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 528
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af41da0514dd3e40800000000000000
+      internalID: 5637895495378620326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f60bc0c7b9f5500800000000000000
+      internalID: 387199050068291364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 528
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47cff98f6b571660800000000000000
+      internalID: 7356449050947733326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 528
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cee1d5d78b24370800000000000000
+      internalID: 8305403511397346413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 528
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87441710d18c57790800000000000000
+      internalID: -7532894774803479432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 528
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de882fbe7b1cdcdd0800000000000000
+      internalID: -2464100425420076819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 528
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9966bb6988d1360800000000000000
+      internalID: 7142014765050010048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 528
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d54fe64315c5b60800000000000000
+      internalID: 7736147545557327219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02fa631499400650800000000000000
+      internalID: 6197033987591565835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babdc918478820480800000000000000
+      internalID: -8934428676777518165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f8acd1edd18f710800000000000000
+      internalID: 1727163296916344708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739ebb0d5e2aca590800000000000000
+      internalID: -7661569758130869961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4633a0b04037a38e0800000000000000
+      internalID: -1712930247058771100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2359a6e3ad3f9aaa0800000000000000
+      internalID: -6149115697522109134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9bc50b13d4e6390800000000000000
+      internalID: -7823230626888369727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e26da0270c16aa90800000000000000
+      internalID: -7303118928796097818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367de81363b131850800000000000000
+      internalID: 6346446219468789603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 432
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad76ca419afa0a00800000000000000
+      internalID: 723666192078110120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 432
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6ab1797f402a340800000000000000
+      internalID: 4873463208206902964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f393e801dd50b8060800000000000000
+      internalID: 6956660496427530559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 432
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e180cac3d91e65e10800000000000000
+      internalID: 2186182734578976798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 432
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fba7de50267446f0800000000000000
+      internalID: -701305760560731149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45d095632d8c5000800000000000000
+      internalID: 26050881024742733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88214ca5efcdbbb90800000000000000
+      internalID: -7224938192183225720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd29430f64b11a90800000000000000
+      internalID: -7344891128375071233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5332a3671018486e0800000000000000
+      internalID: -1836200904781847755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9aa725326241f000800000000000000
+      internalID: 67908458953288349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f852771aa18d603b0800000000000000
+      internalID: -5546508282170497649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb17a434e12d47a40800000000000000
+      internalID: 5365144083524907455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ea1425e217bea00800000000000000
+      internalID: 786847003668754014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddf870f647483300800000000000000
+      internalID: 232013750817324507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 336
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131dd16ab0b676f90800000000000000
+      internalID: -6960477001302027983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099db00404d5890d0800000000000000
+      internalID: -3415877786826712688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 336
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7aedac1e557af00800000000000000
+      internalID: 1127964659939190747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c708fd8d39f1b4a0800000000000000
+      internalID: -6579203537841420344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eae0f35bdc890b80800000000000000
+      internalID: -8428050354013148446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbcdc9f0b75dea30800000000000000
+      internalID: 4246146441297120204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6e5653e0b215860800000000000000
+      internalID: 7516836593083475622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46716faf656959660800000000000000
+      internalID: 7391979663720322916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72c15037b2fa2310800000000000000
+      internalID: 1381183104346079867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04815e8877f7a6330800000000000000
+      internalID: 3704913794840205376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c508f0dde78bb50800000000000000
+      internalID: 6609171941079145526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f2216fad116b560800000000000000
+      internalID: 7329065075720990550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4973e0b89c870d0800000000000000
+      internalID: -3424765917539101536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b5e64325c647520800000000000000
+      internalID: 2698901177024535402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed207ccd4898afb50800000000000000
+      internalID: 6627761005361824478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_51
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585711c1fd856d8a0800000000000000
+      internalID: -6280734915049720443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10eaafd8b765728b0800000000000000
+      internalID: -5177074157976113663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_53
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 240
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c782fe082ec8afc0800000000000000
+      internalID: -3483307640326289472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_54
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 240
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8fbf5cc60e6b1f0800000000000000
+      internalID: -1029388707024865055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_55
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6cf8c1a1a3e6de0800000000000000
+      internalID: -1338068155459713349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_56
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 240
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f454796846dc596f0800000000000000
+      internalID: -678410337210907313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_57
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 240
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994903a989629f150800000000000000
+      internalID: 5906794823136875673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_58
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 240
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ca589b185703790800000000000000
+      internalID: -7552407375076545435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe5a96ff4bbe39d0800000000000000
+      internalID: -2792588766809006351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7381239314697a630800000000000000
+      internalID: 3938281606035413047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f0de258194c8400800000000000000
+      internalID: 327717241710514059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3f4d4776b58e6c0800000000000000
+      internalID: -4113937759703075917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0742adeac61b503b0800000000000000
+      internalID: -5546832285688781712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e865e4dcc4d8fe0800000000000000
+      internalID: -1185206682262270346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_65
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8eb9e03314cfe680800000000000000
+      internalID: -8723538366489313654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_66
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe22454574f4e3e60800000000000000
+      internalID: 7943873960504206063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addbdf3f9e20fadb0800000000000000
+      internalID: -4778597475772678694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc8f819538874b30800000000000000
+      internalID: 4271532535240953010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f80fcee69adda350800000000000000
+      internalID: 6029715817905457400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c585eeb695c88a0800000000000000
+      internalID: -6301563458503025528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_71
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65505d83a7eec870800000000000000
+      internalID: 8705149819390285165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_72
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a59ac6094a9559b0800000000000000
+      internalID: -5091994165235247709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ede30b32e3a4f70800000000000000
+      internalID: 9172211914095124099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd29c9f96e09bdc0800000000000000
+      internalID: -3622848576917787201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_75
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a1ee27c206ac8e0800000000000000
+      internalID: -1672418567591683541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee709959bde315d0800000000000000
+      internalID: -3092867138746024209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_77
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab20da83b1522740800000000000000
+      internalID: 5125749157470940073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94525525841d1df30800000000000000
+      internalID: 4598686803071149385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_79
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2bf73998790e6c0800000000000000
+      internalID: -4116123442275699980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde771e83b66985d0800000000000000
+      internalID: -3059801550452457763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dd49a68c8b8b1a0800000000000000
+      internalID: -6793476866967282280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30da3cbc3beac8380800000000000000
+      internalID: -8967600670760522493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad616dff6b78f3810800000000000000
+      internalID: 1747264400489060058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5887204af8e97d340800000000000000
+      internalID: 4888550260303100037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d82de901bd598f0800000000000000
+      internalID: -534280116342977146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abc648b7710e6880800000000000000
+      internalID: -8615947423408796766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_87
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f72054111d185200800000000000000
+      internalID: 168916945218840569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf9ed3d0bd3e7c20800000000000000
+      internalID: 3206067814412492736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_89
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345c8fe1715f71810800000000000000
+      internalID: 1736125661027288387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e79bdff487a04cc0800000000000000
+      internalID: -3728796301792667673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_91
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea20240f8100e7390800000000000000
+      internalID: -7818811795958529362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_92
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b3c2925a8197c40800000000000000
+      internalID: 5510462716703947543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_93
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc40f7045f513670800000000000000
+      internalID: 8516693184849399005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_94
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb7e9b7a51b8bf00800000000000000
+      internalID: 1132850308462836729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_95
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e0f693e89b293a0800000000000000
+      internalID: -6660056878427468265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_96
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f8473395d1742d0800000000000000
+      internalID: -3294632333445656815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog_White-Brown_97
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3833561fb8be450800000000000000
+      internalID: 6119138387614204882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
